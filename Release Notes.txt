@@ -1,0 +1,16 @@
+Release Notes
+﻿
+Game Project: Hyena Screening
+Creator: Aidan O'Brien
+Version: 1.2
+Date: 5/18/2025
+
+
+Fixes
+Couple bug fixes with rooms not being accessible under certain conditions.  ﻿
+﻿
+Improvements
+﻿Improvement to environmental design! Transitions, music, and changes to character. Introduction of new color
+
+Known Bugs
+﻿A room would not close because of missing return point
